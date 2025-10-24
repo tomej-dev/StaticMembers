@@ -19,6 +19,8 @@ namespace StaticMembers.utils
             Quantidade = quantidade;
         }
 
+        p
+
         public string GetNome()
         {
             return Nome;
